@@ -1,1 +1,15 @@
+# Astrolearn
+## Datasets
 
+### Emotion Recognition
+
+- **GoEmotions Dataset**
+  - https://github.com/google-research/google-research/tree/master/goemotions
+
+### Astronomy Data
+
+- **NASA Astronomy Picture of the Day (APOD) API**
+  - https://api.nasa.gov/#apod
+
+- **International Meteor Organization Meteor Shower Calendar**
+  - https://www.imo.net/resources/calendar/
